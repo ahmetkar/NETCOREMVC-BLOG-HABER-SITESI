@@ -13,3 +13,4 @@ D:\0Dotnet\BlogProje\BlogProjesi\Blog.Entity\obj\Debug\net9.0\Blog.Entity.dll
 D:\0Dotnet\BlogProje\BlogProjesi\Blog.Entity\obj\Debug\net9.0\refint\Blog.Entity.dll
 D:\0Dotnet\BlogProje\BlogProjesi\Blog.Entity\obj\Debug\net9.0\Blog.Entity.pdb
 D:\0Dotnet\BlogProje\BlogProjesi\Blog.Entity\obj\Debug\net9.0\ref\Blog.Entity.dll
+D:\0Dotnet\BlogProje\BlogProjesi\Blog.Entity\obj\Debug\net9.0\Blog.Entity.sourcelink.json

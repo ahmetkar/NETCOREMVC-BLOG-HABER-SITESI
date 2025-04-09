@@ -17,3 +17,4 @@ D:\0Dotnet\BlogProje\BlogProjesi\Blog.Service\obj\Debug\net9.0\Blog.Service.dll
 D:\0Dotnet\BlogProje\BlogProjesi\Blog.Service\obj\Debug\net9.0\refint\Blog.Service.dll
 D:\0Dotnet\BlogProje\BlogProjesi\Blog.Service\obj\Debug\net9.0\Blog.Service.pdb
 D:\0Dotnet\BlogProje\BlogProjesi\Blog.Service\obj\Debug\net9.0\ref\Blog.Service.dll
+D:\0Dotnet\BlogProje\BlogProjesi\Blog.Service\obj\Debug\net9.0\Blog.Service.sourcelink.json

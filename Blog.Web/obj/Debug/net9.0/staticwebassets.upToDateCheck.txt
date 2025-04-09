@@ -230,6 +230,7 @@ wwwroot\images\article-images\deneme898_728.png
 wwwroot\images\article-images\sadadasdsadadasd_718.png
 wwwroot\images\article-images\Sdasdadadadasd_35.png
 wwwroot\images\article-images\xasdad6565656565_850.jpg
+wwwroot\images\article-images\Yeni makale_12.jpeg
 wwwroot\images\site-images\admin-panel_363.png
 wwwroot\images\site-images\admin-panel_929.png
 wwwroot\images\site-images\footer-logo_199.png
@@ -240,7 +241,7 @@ wwwroot\images\site-images\tech-footer-logo.png
 wwwroot\images\site-images\tech-logo.png
 wwwroot\images\user-images\ahmet_235.jpeg
 wwwroot\images\user-images\Ahmet_786.jpeg
-wwwroot\images\user-images\deneme1_630.jpg
+wwwroot\images\user-images\deneme1_84.jpeg
 wwwroot\js\articleIndex.js
 wwwroot\js\categoryIndex.js
 wwwroot\js\dashboardIndex.js

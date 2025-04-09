@@ -317,6 +317,10 @@
       "PackagePath": "staticwebassets\\images\\article-images\\Sdasdadadadasd_35.png"
     },
     {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\Yeni makale_12.jpeg",
+      "PackagePath": "staticwebassets\\images\\article-images\\Yeni makale_12.jpeg"
+    },
+    {
       "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\asdadasdadsaasdadasdadsaasdadasdadsa_662.jpeg",
       "PackagePath": "staticwebassets\\images\\article-images\\asdadasdadsaasdadasdadsaasdadasdadsa_662.jpeg"
     },
@@ -453,8 +457,8 @@
       "PackagePath": "staticwebassets\\images\\user-images\\ahmet_235.jpeg"
     },
     {
-      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\user-images\\deneme1_630.jpg",
-      "PackagePath": "staticwebassets\\images\\user-images\\deneme1_630.jpg"
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\user-images\\deneme1_84.jpeg",
+      "PackagePath": "staticwebassets\\images\\user-images\\deneme1_84.jpeg"
     },
     {
       "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\js\\articleIndex.js",

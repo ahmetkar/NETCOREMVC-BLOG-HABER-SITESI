@@ -17,3 +17,4 @@ D:\0Dotnet\BlogProje\BlogProjesi\Blog.Data\obj\Debug\net9.0\refint\Blog.Data.dll
 D:\0Dotnet\BlogProje\BlogProjesi\Blog.Data\obj\Debug\net9.0\Blog.Data.pdb
 D:\0Dotnet\BlogProje\BlogProjesi\Blog.Data\obj\Debug\net9.0\Blog.Data.genruntimeconfig.cache
 D:\0Dotnet\BlogProje\BlogProjesi\Blog.Data\obj\Debug\net9.0\ref\Blog.Data.dll
+D:\0Dotnet\BlogProje\BlogProjesi\Blog.Data\obj\Debug\net9.0\Blog.Data.sourcelink.json
