@@ -1,0 +1,1397 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ahmet\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\noty.js",
+      "PackagePath": "staticwebassets\\noty.js"
+    },
+    {
+      "Id": "C:\\Users\\ahmet\\.nuget\\packages\\ntoastnotify\\8.0.0\\contentFiles\\any\\net6.0\\wwwroot\\toastr.js",
+      "PackagePath": "staticwebassets\\toastr.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\obj\\Debug\\net9.0\\scopedcss\\projectbundle\\Blog.Web.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Blog.Web.n9s6epp682.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\blogtheme\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\css\\colors.css",
+      "PackagePath": "staticwebassets\\blogtheme\\css\\colors.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\css\\font-awesome.min.css",
+      "PackagePath": "staticwebassets\\blogtheme\\css\\font-awesome.min.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\css\\responsive.css",
+      "PackagePath": "staticwebassets\\blogtheme\\css\\responsive.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\css\\version\\tech.css",
+      "PackagePath": "staticwebassets\\blogtheme\\css\\version\\tech.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\blogtheme\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\blogtheme\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\blogtheme\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\blogtheme\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\blogtheme\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\blogtheme\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\ads-bg.png",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\ads-bg.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\apple-touch-icon.png",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\apple-touch-icon.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\arrow.png",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\arrow.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\favicon.ico"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\footer.png",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\footer.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\hover.png",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\hover.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\loader.gif",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\loader.gif"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\menubg.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\menubg.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\version\\tech-footer-logo.png",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\version\\tech-footer-logo.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\version\\tech-logo.png",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\version\\tech-logo.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\images\\videohover.png",
+      "PackagePath": "staticwebassets\\blogtheme\\images\\videohover.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\blogtheme\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\js\\custom.js",
+      "PackagePath": "staticwebassets\\blogtheme\\js\\custom.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\blogtheme\\js\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\js\\tether.min.js",
+      "PackagePath": "staticwebassets\\blogtheme\\js\\tether.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\style.css",
+      "PackagePath": "staticwebassets\\blogtheme\\style.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\author.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\author.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\author_01.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\author_01.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\author_02.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\author_02.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\banner_01.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\banner_01.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\banner_02.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\banner_02.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\banner_03.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\banner_03.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\banner_07.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\banner_07.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_01.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_01.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_02.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_02.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_03.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_03.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_blog_01.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_blog_01.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_blog_02.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_blog_02.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_blog_03.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_blog_03.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_blog_04.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_blog_04.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_blog_05.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_blog_05.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_blog_06.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_blog_06.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_blog_07.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_blog_07.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_blog_08.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_blog_08.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_blog_09.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_blog_09.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_blog_10.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_blog_10.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_01.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_01.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_02.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_02.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_03.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_03.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_04.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_04.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_05.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_05.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_06.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_06.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_07.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_07.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_08.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_08.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_09.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_09.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_10.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_10.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_11.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_11.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_12.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_12.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_13.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_13.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_14.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_14.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_15.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_15.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_16.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_16.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_17.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_17.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_18.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_18.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_19.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_19.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_menu_20.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_menu_20.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_video_01.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_video_01.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_video_02.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_video_02.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\blogtheme\\upload\\tech_video_03.jpg",
+      "PackagePath": "staticwebassets\\blogtheme\\upload\\tech_video_03.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\css\\mystyle.cs",
+      "PackagePath": "staticwebassets\\css\\mystyle.cs"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\css\\mystyle.css",
+      "PackagePath": "staticwebassets\\css\\mystyle.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\Deneme bir makale eklendi fdfssdfs_369.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\Deneme bir makale eklendi fdfssdfs_369.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\Sdasdadadadasd_35.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\Sdasdadadadasd_35.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\asdadasdadsaasdadasdadsaasdadasdadsa_662.jpeg",
+      "PackagePath": "staticwebassets\\images\\article-images\\asdadasdadsaasdadasdadsaasdadasdadsa_662.jpeg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\asdadasdadsas_6.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\asdadasdadsas_6.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\d111asd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46aasdadasda_818.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\d111asd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46aasdadasda_818.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\dadasdaddadasdaddadasdaddadasdaddadasdaddadasdaddadasdad_470.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\dadasdaddadasdaddadasdaddadasdaddadasdaddadasdaddadasdad_470.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\dasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46a_992.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\dasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46a_992.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\dasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46a_498.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\dasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46adasd4s6ad46a_498.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme baslik son_388.jpeg",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme baslik son_388.jpeg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme1_374.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme1_374.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme23_823.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme23_823.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme332_176.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme332_176.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme334_857.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme334_857.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme3_377.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme3_377.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme3_866.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme3_866.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme454_64.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme454_64.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme454_854.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme454_854.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme4_315.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme4_315.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme64545_473.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme64545_473.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme66565_681.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme66565_681.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme6_849.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme6_849.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme78deneme78deneme78deneme78deneme78deneme78_674.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme78deneme78deneme78deneme78deneme78deneme78_674.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme7_471.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme7_471.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\deneme898_728.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\deneme898_728.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\sadadasdsadadasd_718.png",
+      "PackagePath": "staticwebassets\\images\\article-images\\sadadasdsadadasd_718.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\article-images\\xasdad6565656565_850.jpg",
+      "PackagePath": "staticwebassets\\images\\article-images\\xasdad6565656565_850.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\site-images\\admin-panel_363.png",
+      "PackagePath": "staticwebassets\\images\\site-images\\admin-panel_363.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\site-images\\admin-panel_929.png",
+      "PackagePath": "staticwebassets\\images\\site-images\\admin-panel_929.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\site-images\\footer-logo_199.png",
+      "PackagePath": "staticwebassets\\images\\site-images\\footer-logo_199.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\site-images\\footer-logo_362.png",
+      "PackagePath": "staticwebassets\\images\\site-images\\footer-logo_362.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\site-images\\logo_360.png",
+      "PackagePath": "staticwebassets\\images\\site-images\\logo_360.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\site-images\\logo_78.png",
+      "PackagePath": "staticwebassets\\images\\site-images\\logo_78.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\site-images\\tech-footer-logo.png",
+      "PackagePath": "staticwebassets\\images\\site-images\\tech-footer-logo.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\site-images\\tech-logo.png",
+      "PackagePath": "staticwebassets\\images\\site-images\\tech-logo.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\user-images\\Ahmet_786.jpeg",
+      "PackagePath": "staticwebassets\\images\\user-images\\Ahmet_786.jpeg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\user-images\\ahmet_235.jpeg",
+      "PackagePath": "staticwebassets\\images\\user-images\\ahmet_235.jpeg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\images\\user-images\\deneme1_630.jpg",
+      "PackagePath": "staticwebassets\\images\\user-images\\deneme1_630.jpg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\js\\articleIndex.js",
+      "PackagePath": "staticwebassets\\js\\articleIndex.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\js\\categoryIndex.js",
+      "PackagePath": "staticwebassets\\js\\categoryIndex.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\js\\dashboardIndex.js",
+      "PackagePath": "staticwebassets\\js\\dashboardIndex.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\js\\getNewBlog.js",
+      "PackagePath": "staticwebassets\\js\\getNewBlog.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\js\\sendComment.js",
+      "PackagePath": "staticwebassets\\js\\sendComment.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\js\\sendMessage.js",
+      "PackagePath": "staticwebassets\\js\\sendMessage.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\js\\tagsIndex.js",
+      "PackagePath": "staticwebassets\\js\\tagsIndex.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\js\\userIndex.js",
+      "PackagePath": "staticwebassets\\js\\userIndex.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\dist\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\lib\\jquery\\dist\\jquery.slim.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.slim.min.map"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\css\\demo.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\css\\demo.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\favicon\\favicon.ico",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\favicon\\favicon.ico"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\asana.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\asana.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\behance.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\behance.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\dribbble.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\dribbble.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\facebook.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\facebook.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\github.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\github.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\google.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\google.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\instagram.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\instagram.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\mailchimp.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\mailchimp.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\slack.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\slack.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\brands\\twitter.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\brands\\twitter.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-primary.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\cc-primary.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-success.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\cc-success.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\cc-warning.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\cc-warning.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\chart-success.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\chart-success.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\chart.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\chart.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\paypal.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\paypal.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\wallet-info.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\wallet-info.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\img\\icons\\unicons\\wallet.png",
+      "PackagePath": "staticwebassets\\sneat\\assets\\img\\icons\\unicons\\wallet.png"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\js\\config.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\config.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\js\\dashboards-analytics.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\dashboards-analytics.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\js\\extended-ui-perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\extended-ui-perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\js\\form-basic-inputs.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\form-basic-inputs.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\main.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\js\\pages-account-settings-account.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\pages-account-settings-account.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\js\\ui-modals.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-modals.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\js\\ui-popover.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-popover.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\js\\ui-toasts.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\js\\ui-toasts.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\css\\core.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\core.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-account-settings.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-account-settings.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-auth.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-auth.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-icons.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-icons.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\css\\pages\\page-misc.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\pages\\page-misc.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\css\\theme-default.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\css\\theme-default.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.eot",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.eot"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.svg",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.svg"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.ttf"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\fonts\\boxicons\\boxicons.woff2"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\js\\menu.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\apex-charts\\apex-charts.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\apex-charts\\apex-charts.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight-github.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight-github.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.css"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\assets\\vendor\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\sneat\\assets\\vendor\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\build-config.js",
+      "PackagePath": "staticwebassets\\sneat\\build-config.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\fonts\\boxicons.scss",
+      "PackagePath": "staticwebassets\\sneat\\fonts\\boxicons.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\gulpfile.js",
+      "PackagePath": "staticwebassets\\sneat\\gulpfile.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\sneat\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\js\\helpers.js",
+      "PackagePath": "staticwebassets\\sneat\\js\\helpers.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\js\\menu.js",
+      "PackagePath": "staticwebassets\\sneat\\js\\menu.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\libs\\apex-charts\\apex-charts.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\apex-charts\\apex-charts.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\libs\\apex-charts\\apexcharts.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\apex-charts\\apexcharts.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\libs\\highlight\\highlight-github.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight-github.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\libs\\highlight\\highlight.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\libs\\highlight\\highlight.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\highlight\\highlight.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\libs\\jquery\\jquery.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\jquery\\jquery.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\libs\\masonry\\masonry.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\masonry\\masonry.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.scss",
+      "PackagePath": "staticwebassets\\sneat\\libs\\perfect-scrollbar\\perfect-scrollbar.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\libs\\popper\\popper.js",
+      "PackagePath": "staticwebassets\\sneat\\libs\\popper\\popper.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_accordion.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_accordion.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_alert.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_alert.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_badge.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_badge.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_breadcrumb.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_button-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_button-group.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_card.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_card.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_carousel.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_carousel.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_close.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_close.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_forms.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_forms.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_functions.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_functions.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_include.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_include.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_modal.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_modal.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_nav.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_nav.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_offcanvas.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_offcanvas.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_popover.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_popover.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_progress.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_progress.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_reboot.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_reboot.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_root.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_root.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_spinners.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_spinners.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_tables.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_tables.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_tooltip.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_type.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_type.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_utilities-ltr.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_utilities-ltr.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_utilities.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_utilities.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\_variables.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\_variables.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_floating-labels.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-control.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-control.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-range.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-range.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_form-select.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_form-select.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_input-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_input-group.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_labels.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_labels.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\forms\\_validation.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\forms\\_validation.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_dropdown.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_navs.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_navs.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_progress.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_progress.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_table-variants.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap-extended\\mixins\\_toasts.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap-extended\\mixins\\_toasts.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_bootstrap.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_bootstrap.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_colors.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_colors.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_app-brand.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_avatar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_avatar.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_base.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_base.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_common.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_common.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_footer.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_footer.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_include.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_include.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_layout.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_layout.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_menu.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_menu.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_mixins.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_mixins.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_text-divider.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\_variables.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\_variables.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_app-brand.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_app-brand.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_avatar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_avatar.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_footer.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_footer.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_menu.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_menu.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_navbar.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_navbar.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_components\\mixins\\_text-divider.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_components\\mixins\\_text-divider.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_bootstrap-extended.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_bootstrap-extended.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_components.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_components.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_libs.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_libs.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_pages.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_pages.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_custom-variables\\_support.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_custom-variables\\_support.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_theme\\_common.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_theme\\_common.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\_theme\\_theme.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\_theme\\_theme.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\core.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\core.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\pages\\page-account-settings.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-account-settings.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\pages\\page-auth.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-auth.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\pages\\page-icons.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-icons.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\pages\\page-misc.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\pages\\page-misc.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\scss\\theme-default.scss",
+      "PackagePath": "staticwebassets\\sneat\\scss\\theme-default.scss"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\tasks\\build.js",
+      "PackagePath": "staticwebassets\\sneat\\tasks\\build.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\tasks\\prod.js",
+      "PackagePath": "staticwebassets\\sneat\\tasks\\prod.js"
+    },
+    {
+      "Id": "D:\\0Dotnet\\BlogProje\\BlogProjesi\\Blog.Web\\wwwroot\\sneat\\webpack.config.js",
+      "PackagePath": "staticwebassets\\sneat\\webpack.config.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Blog.Web.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.Blog.Web.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.Blog.Web.props",
+      "PackagePath": "build\\Blog.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.Blog.Web.props",
+      "PackagePath": "buildMultiTargeting\\Blog.Web.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.Blog.Web.props",
+      "PackagePath": "buildTransitive\\Blog.Web.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
